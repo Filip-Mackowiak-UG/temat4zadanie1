@@ -9,12 +9,12 @@ paragraf 2
 paragraf 3
 paragraf 3
 
-~~przekreślenie~~
-**pogrubienie**
+~~przekreślenie~~  
+**pogrubienie**  
 *kursywa*
 
 I tak nakazano:
->Róbcie Stepika
+>Róbcie Stepika  
 >Inaczej będziecie zgubieni
 
 1. Pierwsze zadanie
